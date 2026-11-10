@@ -1,0 +1,14 @@
+{
+  "result_code": "0",
+  "result_msg": "success",
+  "data_version": "local-1",
+  "institutions": [
+    {
+      "id": "tacc_tapis",
+      "name": "Tapis OAuth2 (TaccTapis)",
+      "provider": "tacc_tapis",
+      "redirect_idp_domain": null,
+      "idp_logout_url": null
+    }
+  ]
+}
