@@ -14,7 +14,6 @@ To test that the endpoint is live (in another terminal):
 
 To test against different login conditions, change the symlink to point to a different test data file:
 - `institutions-all`                      - All possible logins (Institutions + Tapis + Globus)
-- `institutions-globus_yes-tapis_yes`     - Same as -all.
 - `institutions-only_globus`              - Only Globus.
 - `institutions-globus_no-tapis_yes`      - Institutions + Tapis
 - `institutions-only`                     - Only Institutions (no Tapis, no Globus)
